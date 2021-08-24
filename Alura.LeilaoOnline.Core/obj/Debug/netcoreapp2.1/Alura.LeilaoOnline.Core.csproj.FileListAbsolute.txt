@@ -1,0 +1,9 @@
+C:\Users\andre\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.deps.json
+C:\Users\andre\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+C:\Users\andre\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
+C:\Users\andre\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.AssemblyInfo.cs
+C:\Users\andre\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+C:\Users\andre\Downloads\Alura.LeilaoOnline.ProjetoInicial\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
